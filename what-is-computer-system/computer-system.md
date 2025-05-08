@@ -4,7 +4,7 @@
 
 ကွန်ပျူတာ system ဆိုတာဘာလဲ မပြောပြသေးခင် အခြေခံအနေနဲ့ computer တစ်လုံး ဘယ်လိုအလုပ်လုပ်သလဲဆိုတာ ကျွန်တော်မြင်သာအောင် အရင်ပြောပြမယ်။
 
-![How Does Computer Work!](/images/how-computer-work.png "How does computer work image")
+![How does a computer work](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/image/how-computer-work.png?raw=true)
 
 
 - Input ဆိုတာက ၀င်လာတဲ့အရာကိုကို ဆိုလိုတာပါ။
@@ -30,8 +30,10 @@ Memory ဆိုရင် အဓိက အားဖြင့် **3** မျိ�
 
 1. Read Only Memory (ROM)
    သူက ဖတ်လို့ပဲရတယ် ပြင်တာတွေ ဖျက်တာတွေလုပ်လို့မရဘူး 
+
 2. Secondary Memory
     သူကကျ အကယ်၍ကျွန်တော်တို့ computer shutdown ချထားတဲ့ချိန်မှာ dataတွေ ဥပမာ (သီချင်း၊ စာ၊ အပုံ) တွေကိုသိမ်းဆည်းပေးထားတဲ့နေရာဖစ်ပါတယ်။ ကျွန်တော်တို့ဖျက်မှ ပဲပျောက်ပါတယ် မဟုတ်ရင်မပျောက်ပါဘူး။ အာ့ကြောင့်ကျွန်တော်တို့ သိမ်းထားသမျှအရာတွေက Secondary Memory ပေါ်မှာပဲရှိတာပါ။
+
 3. Main memory or Primary Memory or Random Access Memory(RAM)
    သူကကျ လက်ရှိလုပ်နေတဲ့ process မှန်သမျှကို Main Memory ပေါ်ဆွဲတင်ပီးအလုပ်လုပ်ပါတယ်၊ လုပ်ငန်းဆောင်တာပီးတာနဲ့ ချက်ချင်း အငွေ့ပျံသွားသလို ပျောက်သွားပါတယ် အဲ့တာကို ဘယ်လိုခေါ်သလဲ ဆိုရင် ***volatile memory*** လို့ခေါ်ပီး
    သူရဲ့ဆန့်ကျင်ဘက် secondary Memory ကိုတော့ ***non-volatile memory*** လို့ခေါ်ပါတယ်။
