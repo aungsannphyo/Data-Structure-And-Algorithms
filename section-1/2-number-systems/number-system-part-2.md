@@ -1,4 +1,6 @@
-# Converting Between Numbering Systems Part 2
+# Converting Between Numbering Systems
+
+### Part ( 2 )
 
 အရှေ့က part 1 ကို မဖတ်ရသေးရင် ဒီနေရာကနေပြန်သွားဖတ်လို့ရပါတယ်။​
 
