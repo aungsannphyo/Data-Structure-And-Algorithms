@@ -19,7 +19,7 @@
 *[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/section-1/2-number-systems/number-system-part-3.md)*
 
 #### Numering System Part 4
-*[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/2-number-systems/number-system-part-4.md)*
+*[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/section-1/2-number-systems/number-system-part-4.md)*
 
 #### Numering System Part 5
 *[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/section-1/2-number-systems/number-system-part-5.md)*
