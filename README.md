@@ -2,6 +2,9 @@
 
 ဒီဆောင်းပါးမှာဆိုရင် Computer Science ရဲ့အခြေခံ Foundation လို့ခေါ်ရမဲ့ Data Structure And Algorithms တွေကို အသေးစိတ် အကျယ်တ၀င့် ကျွန်တော် နားလည်သလို ရေးသားပေးသွားမှာဖစ်ပါတယ်။
 
+
+## Section 1
+
 ### What is Computer System?
 *[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/1-what-is-computer-system/computer-system.md)*
 
@@ -20,3 +23,5 @@
 
 #### Numering System Part 5
 *[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/2-number-systems/number-system-part-5.md)*
+
+---
