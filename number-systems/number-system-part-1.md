@@ -1,4 +1,4 @@
-# Number Systems ဆိုတာဘာလဲ?
+# Numbering Systems ဆိုတာဘာလဲ?
 
 | No | Numbering System | Base|                                 |
 |:---|:----------------:|:---:|:--------------------------------|
