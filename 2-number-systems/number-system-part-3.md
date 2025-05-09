@@ -1,0 +1,67 @@
+# Converting Between Numbering Systems
+
+အရှေ့က part 1,2 ကို မဖတ်ရသေးရင် ဒီနေရာကနေပြန်သွားဖတ်လို့ရပါတယ်။​
+
+[Numbering System part 1](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/2-number-systems/number-system-part-1.md)
+
+[Numbering System part 2](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/2-number-systems/number-system-part-2.md)
+
+
+## Converting To Binary, From Binary
+
+Binary က base 2 ဖစ်တယ်။​ 
+Octal က base 8 ဆိုတာ့က <sup>\*</sup> 2³ ပေါ့ မှတ်ရမှာက Octal 1လုံး မှာ Binary 3 လုံးပါတယ်လို့မှတ်ထားရမယ်။
+Hexadecimal က base 16 ဆိုတော့က <sup>\*</sup> 2⁴ ဖစ်တယ်ပေါ့ မှတ်ရမှာက Hexadecimal 1 လုံးမှာ Binary 4 လုံးပါတယ်လို့မှတ်ထားရမယ်။ကဲဒါဆို Binary ကနေ Octal ကိုပြောင်းကြည့်လိုက်ရအောင်။
+
+### Converting From Other To Binary
+
+#### Octal To Binary
+အရင်ဆုံး မပြောင်းခင် Octal To Binary ရဲ့ ဇယားလေးကိုအရင်ကြည့်ရအောင်။
+
+|           |           |           |
+|:---------:|:---------:|:---------:|
+|2² = 4     |   2¹ = 2  |   2⁰ = 1  |
+
+> ##### (127)₈ = (?)₂
+> ##### 1 = 001
+> ##### 2 = 010
+> ##### 7 = 111
+>
+##### (127)₈ = (001 010 111)₂ => Result
+
+#### Hexadecimal To Binary
+ဒါလဲပဲ မပြောင်းခင် သူတို့ရဲ့ Hexadecimal To Binary ဇယားလေးကိုအရင်ကြည့်ရအောင်။
+
+|           |           |           |           |
+|:---------:|:---------:|:---------:|:----------|
+| 2³ = 8    |   2² = 4  |  2¹ = 2   |   2⁰ = 1  |
+
+> ##### (A7)₁₆ = (?)₂
+> ##### A (10) => 8 + 2 = 1010
+> ##### 7 = 0111
+>
+> ##### (A7)₁₆ = (01010 0111)₂ => Result
+
+---
+
+### Converting From Binary To Other
+
+#### Binary To Octal
+သူကိုကျ အနောက်ကနေစပီး 3 လုံးတစ်ဖြတ် ဖြတ်ပါမယ်။ လိုအပ်ရင်တော့ အရှေ့မှာ 0 ထည့်ပါ။
+
+> ##### (001 010 111)₂ = (?)₈
+> ##### 001 = 1
+> ##### 010 = 2
+> ##### 111 = 7
+>
+##### (001 010 111)₂ = (127)₈ => Result
+
+#### Binary To Hexadecimla
+သူကိုကျအနောက်ကနေစပီး 4 လုံးတစ်ဖြတ် ဖြတ်ပါမယ်။ လိုအပ်ရင် အရှေ့မှာ 0 ထည့်ပါ။
+
+> ##### (01010 0111)₂ = (?)₁₆
+> ##### 0000 = 0 + 0 + 0 + 0 = 0
+> ##### 1010 = 8 + 0 + 2 + 0 = 10 (A)
+> ##### 0111 = 0 + 4 + 2 +1 = 7
+>
+##### (001 010 111)₂ = (A7)₁₆ => Result
