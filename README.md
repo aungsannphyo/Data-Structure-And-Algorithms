@@ -6,22 +6,22 @@
 ## Section 1
 
 ### What is Computer System?
-*[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/1-what-is-computer-system/computer-system.md)*
+*[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/section-1/1-what-is-computer-system/computer-system.md)*
 
 ### Numbering Systems
 #### Numbering System Part 1
-*[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/2-number-systems/number-system-part-1.md)*
+*[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/section-1/2-number-systems/number-system-part-1.md)*
 
 #### Numbering System Part 2
-*[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/2-number-systems/number-system-part-2.md)*
+*[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/section-1/2-number-systems/number-system-part-2.md)*
 
 #### Numering System Part 3
-*[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/2-number-systems/number-system-part-3.md)*
+*[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/section-1/2-number-systems/number-system-part-3.md)*
 
 #### Numering System Part 4
 *[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/2-number-systems/number-system-part-4.md)*
 
 #### Numering System Part 5
-*[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/2-number-systems/number-system-part-5.md)*
+*[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/section-1/2-number-systems/number-system-part-5.md)*
 
 ---
