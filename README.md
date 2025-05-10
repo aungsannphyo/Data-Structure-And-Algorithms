@@ -26,10 +26,10 @@
 ### Boolean Algebra 
 
 #### Boolean Algebra Part 1
-*[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/2-boolean-algebra/boolean-algebra-part-1.md)*
+*[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/3-boolean-algebra/boolean-algebra-part-1.md)*
 
 #### Boolean Algebra Part 2
-*[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/2-boolean-algebra/boolean-algebra-part-2.md)*
+*[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/3-boolean-algebra/boolean-algebra-part-2.md)*
 
 #### Boolean Algebra Part 3
-*[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/2-boolean-algebra/boolean-algebra-part-3.md)*
+*[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/3-boolean-algebra/boolean-algebra-part-3.md)*
