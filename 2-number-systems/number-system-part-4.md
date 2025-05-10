@@ -2,11 +2,11 @@
 
 အရှေ့က part 1, 2, 3 ကို မဖတ်ရသေးရင် ဒီနေရာကနေပြန်သွားဖတ်လို့ရပါတယ်။​
 
-[Numbering System part 1](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/section-1/2-number-systems/number-system-part-1.md)
+[Numbering System part 1](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/2-number-systems/number-system-part-1.md)
 
-[Numbering System part 2](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/section-1/2-number-systems/number-system-part-2.md)
+[Numbering System part 2](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/2-number-systems/number-system-part-2.md)
 
-[Numbering System part 3](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/section-1/2-number-systems/number-system-part-3.md)
+[Numbering System part 3](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/2-number-systems/number-system-part-3.md)
 
 ကဲဒီတစ်ခါမှာတော့ Hexadecimal to Octal and Octal to Hexadecimal လေးပြောင်းကြည့်လိုက်ရအောင်။
 သူတို့ကိုပြောင်းဖို့ကျ အရှေ့က ကောင်တွေလိုတိုက်ရိုက်ပြောင်းမရတဲ့အတွက် **Binary** ကိုကြားခံပီးပြောင်းကြပါတယ်။

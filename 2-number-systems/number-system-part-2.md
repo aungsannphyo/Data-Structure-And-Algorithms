@@ -2,7 +2,7 @@
 
 အရှေ့က part 1 ကို မဖတ်ရသေးရင် ဒီနေရာကနေပြန်သွားဖတ်လို့ရပါတယ်။​
 
-[Numbering System part 1](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/section-1/2-number-systems/number-system-part-1.md)
+[Numbering System part 1](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/2-number-systems/number-system-part-1.md)
 
 လက်မကို ပေ ဖွဲ့ ပေကို ကိုက်ဖွဲ့ နဲ့ လိုအပ်သလိုပြောင်းလဲပီး တွက်ကြရသလို Numbering System ကိုလဲ လိုအပ်ရင်လိုအပ်သလိုပြောင်းလဲ တွက်ကြလေ့ရှိပါတယ်။
 
