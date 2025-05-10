@@ -23,7 +23,7 @@ Main Power က On ထားမယ်  Emergency shutdown က active ဖစ်မ
 
 ---
 
-##  Inversion Law or Complement Law
+##  Commutative Law
 
 > #### A and B = B and A
 > #### A or B = B or A
