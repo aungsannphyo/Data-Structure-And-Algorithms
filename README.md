@@ -16,7 +16,7 @@
 *[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/2-number-systems/number-system-part-3.md)*
 
 #### Numering System Part 4
-*[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/section-1/2-number-systems/number-system-part-4.md)*
+*[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/2-number-systems/number-system-part-4.md)*
 
 #### Numering System Part 5
 *[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/2-number-systems/number-system-part-5.md)*
@@ -24,4 +24,12 @@
 ---
 
 ### Boolean Algebra 
+
+#### Boolean Algebra Part 1
 *[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/2-boolean-algebra/boolean-algebra-part-1.md)*
+
+#### Boolean Algebra Part 2
+*[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/2-boolean-algebra/boolean-algebra-part-2.md)*
+
+#### Boolean Algebra Part 3
+*[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/2-boolean-algebra/boolean-algebra-part-3.md)*
