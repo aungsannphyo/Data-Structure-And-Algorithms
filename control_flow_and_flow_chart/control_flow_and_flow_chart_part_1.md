@@ -30,5 +30,45 @@ ELSE
 ```
 ဒါကတော့ အဆင်မပြေဘူး ပြောရရင် False ဆိုတဲ့အခြေအနေဘက် ရှု့ထောင်ဖစ်တယ်
 
+ဒါဆိုနောက်တမျိုးဆက်သွားကြည့်ရအောင် ဒီအခါမှာ ဥပမာအနေနဲ့ ကျွန်တော်တို့ ဆယ်တန်းစာမေးပွဲမှာ အနည်ဆုံး 80 ရရင် ဂုဏ်ထူးပါမယ် 40 အောက်ဆို ကျတယ် 40 အနည်းဆုံးရတယ်ဆို စာမေးပွဲအောင်တယ်။ အဲ့တော့ အရင်ဆုံး Pseudo code အနေနဲ့စဥ်းစားလိုက်ရအောင်
+
+
+```
+IF Myanmar >= 40 AND English >= 40 AND Math >= 40 THEN
+    IF Myanmar >= 75 OR English >= 75 OR Math >= 80 THEN
+        OUTPUT "You pass the exam with D"
+    ELSE 
+        OUTPUT "You pass the exam"
+ELSE
+    OUTPUT "You fail the exam"
+```
+
+Nested မရေးချင်ရင်နောက်တနည်းရေးလို့ရပါသေးတယ်။
+
+```
+IF Myanmar >= 40 AND English >= 40 AND Math >= 40 THEN
+    OUTPUT "You pass the exam"
+ELSE IF Myanmar >= 75 OR English >= 75 OR Math >= 80 THEN
+    OUTPUT "You pass the exam with D"
+ELSE
+    OUTPUT "You fail the exam"
+```
+
+![Flowchart](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/image/flowchart2.png?raw=true)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
