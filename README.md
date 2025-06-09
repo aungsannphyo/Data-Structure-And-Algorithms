@@ -1,6 +1,6 @@
 # Data Structure And Algorithms
 
-ဒီဆောင်းပါးမှာဆိုရင် Computer Science ရဲ့အခြေခံ Foundation လို့ခေါ်ရမဲ့ Data Structure And Algorithms ကိုကျွန်တော်ကွန်ပျူတာကျောင်းသား ဘဝ second year တုန်းကသင်ခဲ့ရတဲ့ စာအုပ်ကို အခြေခံပီးအသေးစိတ် အကျယ်တ၀င့် ကျွန်တော် နားလည်သလို ရေးသားပေးသွားမှာဖစ်ပါတယ်။ တစ်စုံတစ်ရာ အမှားပါခဲ့သည်ရှိသော် ‌ဝေဖန်ထောက်ပြ အကြံပြုပေးဖို့တောင်းဆိုပါတယ်။
+ဒီဆောင်းပါးမှာဆိုရင် Computer Science ရဲ့အခြေခံ Foundation လို့ခေါ်ရမဲ့ Data Structure And Algorithms ကိုကျွန်တော်ကွန်ပျူတာကျောင်းသား ဘဝ first year တုန်းကသင်ခဲ့ရတဲ့ စာအုပ်ကို အခြေခံပီးအသေးစိတ် အကျယ်တ၀င့် ကျွန်တော် နားလည်သလို ရေးသားပေးသွားမှာဖစ်ပါတယ်။ တစ်စုံတစ်ရာ အမှားပါခဲ့သည်ရှိသော် ‌ဝေဖန်ထောက်ပြ အကြံပြုပေးဖို့တောင်းဆိုပါတယ်။
 
 ### What is Computer System?
 *[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/1-what-is-computer-system/computer-system.md)*
