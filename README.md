@@ -33,3 +33,18 @@
 
 #### Boolean Algebra Part 3
 *[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/3-boolean-algebra/boolean-algebra-part-3.md)*
+
+
+### Data Structure And Algorithm
+
+#### Introduction
+*[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/4-data_structure_&_algorithm/introduction.md)*
+
+
+### Control Flow and Flow Chart
+
+#### Control Flow and Flow Chart Part 1
+*[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/5-control_flow_and_flow_chart/control_flow_and_flow_chart_part_1.md)*
+
+#### Control Flow and Flow Chart Part 2
+*[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/5-control_flow_and_flow_chart/control_flow_and_flow_chart_part_2.md)*
