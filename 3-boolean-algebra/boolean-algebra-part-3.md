@@ -1,6 +1,6 @@
 # Rules in Boolean Algebra 
 
-### Part 3
+####  Part 3
 
 ##  Inversion Law or Complement Law
 

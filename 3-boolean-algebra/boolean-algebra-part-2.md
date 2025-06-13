@@ -1,6 +1,6 @@
 # Rules in Boolean Algebra 
 
-### Part 2
+####  Part 2
 
 ## DeMorgan’s Theorems
 

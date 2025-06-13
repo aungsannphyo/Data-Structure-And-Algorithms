@@ -1,6 +1,6 @@
 # Boolean Algebra 
 
-### Part 1
+####  Part 1
 
 | Operator          | Symbol     | Description                                  | 
 | ------------------| ---------- |  ------------------------------------------- |
