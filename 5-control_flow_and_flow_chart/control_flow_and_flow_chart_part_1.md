@@ -57,18 +57,37 @@ ELSE
 ![Flowchart](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/image/flowchart2.png?raw=true)
 
 
+### Conditional Statement for Range
 
+Range တွေကို အဓိကစစ်တဲ့အခါ ကျွန်တော်တို့က AND ကိုပဲသုံးသင့်တယ်ဗျ။ တကယ်လို့သာ OR နဲ့ရေးခဲ့ရင် 
 
+```
+If n >= 1 or n<=100 then:
+```
 
+အဲ့မှာ၀င်လာတဲ့ n တန်ဖိုးက အကယ်၍ 200 သာဖစ်မယ် ဒါမှမဟုတ် 20000 သာဖစ်မယ် ဆို True တန်းထွက်ပါလိမ့်မယ် ဘာလို့လဲဆိုတော့ 200 or 2000 က 1 ထက်ကြီးနေတာကိုး။ ဖစ်သင့်တာက 1 နဲ့ 100 ကြားလို့စစ်ချင်တဲ့အတွက် AND နဲ့စစ်သင့်တာဖစ်တယ် ဘယ်လိုလဲဆိုရင် 
 
+```
+If n >= 1 and n <= 10 then:
+```
 
+နောက်ထပ်ဥပမာမြင်သာအောင်ပြရရင် 
 
+```
+If mark>=90 then:
+Write “grade A”
+Else If mark<90 and mark>=70 then:
+Write “grade B”
+Else If mark<70 and mark>=40 then:
+Write “grade C”
+Else:
+Write “grade D”
+```
 
-
-
-
-
-
-
-
-
+```
+If mark>=90 then:
+Write “grade A”
+Else mark>=70 then:
+Write “grade B”
+Else If mark>=40 then:
+```
