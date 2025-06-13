@@ -29,7 +29,7 @@ looping ကို အပိုင်းပိုင်းလိုက်ရင�
 ဘယ်လိုဖစ်သွားလဲဆိုတာကျွန်တော် trace လိုက်ပြပါ့မယ်။
 ပထမဆုံး number = 1 ပီးတော့ condition စစ်တယ် 51 ထက်ငယ်သလား ငယ်တော့ အောက်ဆင်းပီး number and comma ကိုအဖြေထုတ်တယ်ပီးရင် update 1 ပေါင်းတယ် ပီးတာနဲ့ number ထဲကို assign ပြန်လုပ်တယ်အပေါ်ပြန်တက်တယ်စောနက process အတိုင်းအလုပ်လုပ်မယ် နောက်ဆုံး number တန်ဖိုးက 52 ရောက်တာနဲ့  false ဖစ်ပီးနောက်ဆုံး number ကိုထုတ်မယ် ဒါပါပဲ။
 
-```
+```csharp
 number = 1 (initialization)
 Repeat while number < 99: (condition)
     Write number, “,”
@@ -38,7 +38,7 @@ End of Loop
 Write number
 ```
 
-```
+```csharp
 Repeat for number=1 to 51 by 1:
     Write number, “,”
 End of Loop
