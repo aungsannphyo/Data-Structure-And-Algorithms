@@ -48,3 +48,6 @@
 
 #### Control Flow and Flow Chart Part 2
 *[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/5-control_flow_and_flow_chart/control_flow_and_flow_chart_part_2.md)*
+
+#### Control Flow and Flow Chart Part 3
+*[Link Here](https://github.com/aungsannphyo/Data-Structure-And-Algorithms/blob/main/5-control_flow_and_flow_chart/control_flow_and_flow_chart_part_3.md)*
